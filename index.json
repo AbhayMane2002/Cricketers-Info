@@ -51,4 +51,10 @@
         "Age":"35",
         "Role":"Batsman",
     },
+    {
+        "id": 6,  
+        "Name": "Kunal",
+        "Age":"31",
+        "Role":"Bawler",
+    },
     ]
